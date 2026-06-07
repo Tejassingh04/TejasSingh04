@@ -70,7 +70,7 @@ Software Development Engineer ➜ Machine Learning Engineer
 
 LinkedIn: https://www.linkedin.com/in/tejassingh04/
 
-GitHub: github.com/Tejassingh04
+GitHub: https://github.com/Tejassingh04/TejasSingh04/
 <!--
 **Tejassingh04/TejasSingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
