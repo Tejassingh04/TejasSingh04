@@ -68,7 +68,7 @@ Software Development Engineer ➜ Machine Learning Engineer
 
 ## Connect With Me
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/tejassingh04/
 
 GitHub: github.com/Tejassingh04
 <!--
