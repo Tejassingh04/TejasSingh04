@@ -1,14 +1,14 @@
 ## Hi, I'm Tejas Singh
 
 MCA Student
-Interest in Software Development, JAVA Development and Machine Learning
+MCA Student passionate about Software Development, Java Backend Development and Machine Learning.
 
 ---
 
 ## Current Focus
 
 - Building Projects
-- Strengthening my coding Concept
+- Improving problem-solving and coding skills
 - Improving Java Development skills
 - Preparing for internships
 
@@ -21,7 +21,7 @@ Interest in Software Development, JAVA Development and Machine Learning
 - SQL
 - HTMl
 - CSS
-- JS
+- JavaScript
 
 ### Backend
 - JDBC
@@ -41,10 +41,10 @@ Interest in Software Development, JAVA Development and Machine Learning
 ## Projects
 
 ### Sajawat
-Develop frontend of wooden furniture website
+wooden furniture website
 
 ### CabConnect
-Project of Bachelor about Cab Booking
+Cab booking website developed as a major academic project.
 
 ### Job Portal System
 Currently Building using Java, JSP, Servlet and MySQL
