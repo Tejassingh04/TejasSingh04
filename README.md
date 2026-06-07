@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tejas Singh
 
 <!--
 **Tejassingh04/TejasSingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
